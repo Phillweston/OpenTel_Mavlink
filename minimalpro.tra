@@ -1,0 +1,26 @@
+*** Creating Trace Output File 'minimalpro.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"checksum.o"'
+### List of Objects: adding '"mavlink_helpers.o"'
+### List of Objects: adding '"protocol.o"'
+### List of Objects: adding '"testsuite.o"'
+### List of Objects: adding '"mavlink_msg_heartbeat.o"'
+### List of Objects: adding '"mavlink_msg_statustext.o"'
+### List of Objects: adding '"opentel_mavlink.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "checksum.o" "mavlink_helpers.o" "protocol.o" "testsuite.o" "mavlink_msg_heartbeat.o" "mavlink_msg_statustext.o" "opentel_mavlink.o" 
+--strict --scatter "minimalpro.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\minimalpro.map" -o minimalpro.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'minimalpro.axf'
+### ADS-LD Command File: 'minimalpro.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'minimalpro.lnp', Handle=0x000004F4
+### Writing '.lnp' file
+### ADS-LD Command file 'minimalpro.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 1 errors
+### Updating obj list
+### LDADS_file() completed.

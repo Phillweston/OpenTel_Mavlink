@@ -1,0 +1,36 @@
+Dependencies for Project 'minimalpro', Target 'mavlink_minimal': (DO NOT MODIFY !)
+F (.\minimal\checksum.c)(0x55D2E96F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "checksum.o" --omf_browse "checksum.crf" --depend "checksum.d")
+I (minimal\checksum.h)(0x55D2E949)
+I (C:\Keil\ARM\RV31\INC\stdint.h)(0x4F58357C)
+F (.\minimal\mavlink_helpers.c)(0x55D2F2B6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "mavlink_helpers.o" --omf_browse "mavlink_helpers.crf" --depend "mavlink_helpers.d")
+I (minimal\mavlink_helpers.h)(0x55D2E05C)
+I (minimal\protocol.h)(0x55D2F3C6)
+I (minimal\./minimal/mavlink.h)(0x55D2F234)
+I (minimal\./minimal/../mavlink_types.h)(0x55D2F317)
+I (C:\Keil\ARM\RV31\INC\stdint.h)(0x4F58357C)
+I (minimal\./minimal/version.h)(0x55D2DA23)
+I (minimal\checksum.h)(0x55D2E949)
+F (.\minimal\protocol.c)(0x55D2EFEF)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "protocol.o" --omf_browse "protocol.crf" --depend "protocol.d")
+I (minimal\protocol.h)(0x55D2F3C6)
+I (minimal\./minimal/mavlink.h)(0x55D2F234)
+I (minimal\./minimal/../mavlink_types.h)(0x55D2F317)
+I (C:\Keil\ARM\RV31\INC\stdint.h)(0x4F58357C)
+I (minimal\./minimal/version.h)(0x55D2DA23)
+F (.\minimal\minimal\mavlink_msg_heartbeat.c)(0x55D2F4A1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "mavlink_msg_heartbeat.o" --omf_browse "mavlink_msg_heartbeat.crf" --depend "mavlink_msg_heartbeat.d")
+I (minimal\minimal\mavlink_msg_heartbeat.h)(0x55D2F4A9)
+I (minimal\minimal\../mavlink_helpers.h)(0x55D2E05C)
+I (minimal\minimal\../protocol.h)(0x55D2F3C6)
+I (minimal\minimal\.././minimal/mavlink.h)(0x55D2F234)
+I (minimal\minimal\.././minimal/../mavlink_types.h)(0x55D2F317)
+I (C:\Keil\ARM\RV31\INC\stdint.h)(0x4F58357C)
+I (minimal\minimal\.././minimal/version.h)(0x55D2DA23)
+F (.\minimal\minimal\testsuite.c)(0x55D2F7B7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "testsuite.o" --omf_browse "testsuite.crf" --depend "testsuite.d")
+I (minimal\minimal\testsuite.h)(0x55D2F53F)
+I (minimal\minimal\minimal.h)(0x55D2F218)
+I (minimal\minimal\./mavlink_msg_heartbeat.h)(0x55D2F4A9)
+I (minimal\minimal\./../mavlink_helpers.h)(0x55D2E05C)
+I (minimal\minimal\./../protocol.h)(0x55D2F3C6)
+I (minimal\minimal\./.././minimal/mavlink.h)(0x55D2F234)
+I (minimal\minimal\./.././minimal/../mavlink_types.h)(0x55D2F317)
+I (C:\Keil\ARM\RV31\INC\stdint.h)(0x4F58357C)
+I (minimal\minimal\./.././minimal/version.h)(0x55D2DA23)

@@ -1,0 +1,17 @@
+.\obj\system_stm32f0xx.o: stm32\stm32f0\system_stm32f0xx.c
+.\obj\system_stm32f0xx.o: stm32\stm32f0\stm32f0xx.h
+.\obj\system_stm32f0xx.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\obj\system_stm32f0xx.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\system_stm32f0xx.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\system_stm32f0xx.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\system_stm32f0xx.o: stm32\stm32f0\system_stm32f0xx.h
+.\obj\system_stm32f0xx.o: stm32\stm32f0\stm32f0xx_conf.h
+.\obj\system_stm32f0xx.o: .\stm32\lib\inc\stm32f0xx_adc.h
+.\obj\system_stm32f0xx.o: .\stm32\stm32f0\stm32f0xx.h
+.\obj\system_stm32f0xx.o: .\stm32\lib\inc\stm32f0xx_flash.h
+.\obj\system_stm32f0xx.o: .\stm32\lib\inc\stm32f0xx_gpio.h
+.\obj\system_stm32f0xx.o: .\stm32\lib\inc\stm32f0xx_rcc.h
+.\obj\system_stm32f0xx.o: .\stm32\lib\inc\stm32f0xx_spi.h
+.\obj\system_stm32f0xx.o: .\stm32\lib\inc\stm32f0xx_tim.h
+.\obj\system_stm32f0xx.o: .\stm32\lib\inc\stm32f0xx_usart.h
+.\obj\system_stm32f0xx.o: .\stm32\lib\inc\stm32f0xx_misc.h

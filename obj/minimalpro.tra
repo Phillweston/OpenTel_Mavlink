@@ -1,0 +1,74 @@
+*** Creating Trace Output File '.\obj\minimalpro.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\checksum.o"'
+### List of Objects: adding '".\obj\mavlink_helpers.o"'
+### List of Objects: adding '".\obj\protocol.o"'
+### List of Objects: adding '".\obj\testsuite.o"'
+### List of Objects: adding '".\obj\mavlink_msg_heartbeat.o"'
+### List of Objects: adding '".\obj\mavlink_msg_statustext.o"'
+### List of Objects: adding '".\obj\mavlink_msg_ahrs.o"'
+### List of Objects: adding '".\obj\mavlink_msg_attitude.o"'
+### List of Objects: adding '".\obj\mavlink_msg_global_position_int.o"'
+### List of Objects: adding '".\obj\mavlink_msg_gps_raw_int.o"'
+### List of Objects: adding '".\obj\mavlink_msg_gps_status.o"'
+### List of Objects: adding '".\obj\mavlink_msg_hwstatus.o"'
+### List of Objects: adding '".\obj\mavlink_msg_limits_status.o"'
+### List of Objects: adding '".\obj\mavlink_msg_meminfo.o"'
+### List of Objects: adding '".\obj\mavlink_msg_mission_current.o"'
+### List of Objects: adding '".\obj\mavlink_msg_mission_request.o"'
+### List of Objects: adding '".\obj\mavlink_msg_nav_controller_output.o"'
+### List of Objects: adding '".\obj\mavlink_msg_param_value.o"'
+### List of Objects: adding '".\obj\mavlink_msg_raw_imu.o"'
+### List of Objects: adding '".\obj\mavlink_msg_rc_channels_raw.o"'
+### List of Objects: adding '".\obj\mavlink_msg_rc_channels_scaled.o"'
+### List of Objects: adding '".\obj\mavlink_msg_scaled_pressure.o"'
+### List of Objects: adding '".\obj\mavlink_msg_sensor_offsets.o"'
+### List of Objects: adding '".\obj\mavlink_msg_servo_output_raw.o"'
+### List of Objects: adding '".\obj\mavlink_msg_simstate.o"'
+### List of Objects: adding '".\obj\mavlink_msg_sys_status.o"'
+### List of Objects: adding '".\obj\mavlink_msg_vfr_hud.o"'
+### List of Objects: adding '".\obj\opentel_mavlink.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\uart.o"'
+### List of Objects: adding '".\obj\fifo.o"'
+### List of Objects: adding '".\obj\stm32f0xx_it.o"'
+### List of Objects: adding '".\obj\system_stm32f0xx.o"'
+### List of Objects: adding '".\obj\startup_stm32f0xx.o"'
+### List of Objects: adding '".\obj\stm32f0xx_adc.o"'
+### List of Objects: adding '".\obj\stm32f0xx_cec.o"'
+### List of Objects: adding '".\obj\stm32f0xx_comp.o"'
+### List of Objects: adding '".\obj\stm32f0xx_crc.o"'
+### List of Objects: adding '".\obj\stm32f0xx_dac.o"'
+### List of Objects: adding '".\obj\stm32f0xx_dbgmcu.o"'
+### List of Objects: adding '".\obj\stm32f0xx_dma.o"'
+### List of Objects: adding '".\obj\stm32f0xx_exti.o"'
+### List of Objects: adding '".\obj\stm32f0xx_flash.o"'
+### List of Objects: adding '".\obj\stm32f0xx_gpio.o"'
+### List of Objects: adding '".\obj\stm32f0xx_i2c.o"'
+### List of Objects: adding '".\obj\stm32f0xx_iwdg.o"'
+### List of Objects: adding '".\obj\stm32f0xx_misc.o"'
+### List of Objects: adding '".\obj\stm32f0xx_pwr.o"'
+### List of Objects: adding '".\obj\stm32f0xx_rcc.o"'
+### List of Objects: adding '".\obj\stm32f0xx_rtc.o"'
+### List of Objects: adding '".\obj\stm32f0xx_spi.o"'
+### List of Objects: adding '".\obj\stm32f0xx_syscfg.o"'
+### List of Objects: adding '".\obj\stm32f0xx_tim.o"'
+### List of Objects: adding '".\obj\stm32f0xx_usart.o"'
+### List of Objects: adding '".\obj\stm32f0xx_wwdg.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\obj\checksum.o" ".\obj\mavlink_helpers.o" ".\obj\protocol.o" ".\obj\testsuite.o" ".\obj\mavlink_msg_heartbeat.o" ".\obj\mavlink_msg_statustext.o" ".\obj\mavlink_msg_ahrs.o" ".\obj\mavlink_msg_attitude.o" ".\obj\mavlink_msg_global_position_int.o" ".\obj\mavlink_msg_gps_raw_int.o" ".\obj\mavlink_msg_gps_status.o" ".\obj\mavlink_msg_hwstatus.o" ".\obj\mavlink_msg_limits_status.o" ".\obj\mavlink_msg_meminfo.o" ".\obj\mavlink_msg_mission_current.o" ".\obj\mavlink_msg_mission_request.o" ".\obj\mavlink_msg_nav_controller_output.o" ".\obj\mavlink_msg_param_value.o" ".\obj\mavlink_msg_raw_imu.o" ".\obj\mavlink_msg_rc_channels_raw.o" ".\obj\mavlink_msg_rc_channels_scaled.o" ".\obj\mavlink_msg_scaled_pressure.o" ".\obj\mavlink_msg_sensor_offsets.o" ".\obj\mavlink_msg_servo_output_raw.o" ".\obj\mavlink_msg_simstate.o" ".\obj\mavlink_msg_sys_status.o" ".\obj\mavlink_msg_vfr_hud.o" ".\obj\opentel_mavlink.o" ".\obj\main.o" ".\obj\uart.o" ".\obj\fifo.o" ".\obj\stm32f0xx_it.o" ".\obj\system_stm32f0xx.o" ".\obj\startup_stm32f0xx.o" ".\obj\stm32f0xx_adc.o" ".\obj\stm32f0xx_cec.o" ".\obj\stm32f0xx_comp.o" ".\obj\stm32f0xx_crc.o" ".\obj\stm32f0xx_dac.o" ".\obj\stm32f0xx_dbgmcu.o" ".\obj\stm32f0xx_dma.o" ".\obj\stm32f0xx_exti.o" ".\obj\stm32f0xx_flash.o" ".\obj\stm32f0xx_gpio.o" ".\obj\stm32f0xx_i2c.o" ".\obj\stm32f0xx_iwdg.o" ".\obj\stm32f0xx_misc.o" ".\obj\stm32f0xx_pwr.o" ".\obj\stm32f0xx_rcc.o" ".\obj\stm32f0xx_rtc.o" ".\obj\stm32f0xx_spi.o" ".\obj\stm32f0xx_syscfg.o" ".\obj\stm32f0xx_tim.o" ".\obj\stm32f0xx_usart.o" ".\obj\stm32f0xx_wwdg.o" 
+--strict --scatter ".\obj\minimalpro.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\minimalpro.map" -o .\obj\minimalpro.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\minimalpro.axf'
+### ADS-LD Command File: '.\obj\minimalpro.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\minimalpro.lnp', Handle=0x0000033C
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\minimalpro.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
